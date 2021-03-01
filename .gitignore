@@ -1,0 +1,5 @@
+ChainFaces/node_modules
+ChainFaces/client/node_modules
+ChainFaces/client/.env
+ChainFacesInfra/.terraform
+ChainFacesInfra/.terraform.lock.hcl
